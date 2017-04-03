@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      HOME
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <ion-item *ngFor="let item of listado | async">
+      <h2 color="primary">{{item.title}}</h2>
+      <h3>{{item.opinion}}</h3>
+    </ion-item>
+  </ion-list>
+
+  <button ion-button center (click)="insertarPeli()">AGREGAR</button>
+</ion-content>

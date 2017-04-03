@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "587123869243",
+    "firebase_url": "https://fir-440ce.firebaseio.com",
+    "project_id": "fir-440ce",
+    "storage_bucket": "fir-440ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587123869243:android:718ed4606b16a58f",
+        "android_client_info": {
+          "package_name": "com.ionicframework.firebaseceballos711074"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587123869243-icfq1h5sddt84bvlqtakhf6s6akr0av0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYakHVm73Gcc4MhRpGxVSp9b-7yx0pFYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
