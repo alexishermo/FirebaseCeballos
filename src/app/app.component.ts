@@ -7,6 +7,7 @@ import { HomePage } from '../pages/home/home';
 import { Push, PushToken } from '@ionic/cloud-angular';
 
 
+
 @Component({
   templateUrl: 'app.html'
 })
